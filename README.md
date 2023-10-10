@@ -212,3 +212,4 @@ git remote add hello-world ../bare-repository.git
 Ce qui peut vous servir de backup ou permettre de stocker vos dépôts ailleurs que chez gitlab, github, framagit, bitbucket ...
 
 Version de Anselme.
+Version de Anselme 2.
