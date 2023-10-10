@@ -20,6 +20,7 @@ Puis, une fois satisfaits, réalisez un `git add` puis `git commit` puis un `git
 La première personne à envoyer le code ne devrait pas avoir de problème, le second oui. Résolvez ensemble le conflit de merge par le biais de la ligne de commande.
 
 c'est le nouveau message que j'ai rajouté -BF
+J'en rajoute un nouveau
 
 ## Exercice N°2
 
