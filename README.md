@@ -19,6 +19,8 @@ Assurez-vous de bien travailler en même temps sur le fichier et d'y saisir des 
 Puis, une fois satisfaits, réalisez un `git add` puis `git commit` puis un `git push`.
 La première personne à envoyer le code ne devrait pas avoir de problème, le second oui. Résolvez ensemble le conflit de merge par le biais de la ligne de commande.
 
+
+
 ## Exercice N°2
 
 > Découverte de ce qui ne génère pas de conflit
